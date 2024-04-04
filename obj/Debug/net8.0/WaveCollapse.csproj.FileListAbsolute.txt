@@ -1,0 +1,14 @@
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\bin\Debug\net8.0\WaveCollapse.exe
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\bin\Debug\net8.0\WaveCollapse.deps.json
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\bin\Debug\net8.0\WaveCollapse.runtimeconfig.json
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\bin\Debug\net8.0\WaveCollapse.dll
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\bin\Debug\net8.0\WaveCollapse.pdb
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.AssemblyInfoInputs.cache
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.AssemblyInfo.cs
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.csproj.CoreCompileInputs.cache
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.dll
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\refint\WaveCollapse.dll
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.pdb
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\WaveCollapse.genruntimeconfig.cache
+C:\Users\Philip Gricius\Desktop\Programming\DataStructures&Algorithms\WaveCollapse\obj\Debug\net8.0\ref\WaveCollapse.dll
